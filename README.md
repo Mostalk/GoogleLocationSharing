@@ -9,6 +9,8 @@
 Затем прокрутите ниже до заголовки запросов найдите и скопируйте всё что идёт после Cookie: и также вставьте в s.
 
 
+
+
 To get the Google Maps URL, go to https://www.google.com/maps/
 
 Press F12 and go to the network tab, then press Ctrl+F and enter www.google.com/maps/rpc/locationsharing/read and press enter.
