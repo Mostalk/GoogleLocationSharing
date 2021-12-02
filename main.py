@@ -10,7 +10,6 @@ mm.add(button1)
 markup = types.InlineKeyboardMarkup()
 btn = types.InlineKeyboardButton(text='Отслеживать', callback_data="yes")
 markup.add(btn)
-
 config = configparser.ConfigParser()
 config.read('config.ini')
 glc = GLC(config['main']['cookie'], config['main']['url'])
